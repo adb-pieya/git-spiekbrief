@@ -17,3 +17,7 @@ een slecht commitbericht: geüpdatet
 
 Waarom is dat een slecht commitbericht?
 Het legt niet uit wat er gebeurd is, alleen dat er een aanpassing/update geweest is. Je moet specifieker zijn.
+
+## 3. gitignore
+
+Een gitignore-bestand zegt welke bestanden of mappen git moet negeren.
