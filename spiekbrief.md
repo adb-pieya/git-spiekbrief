@@ -27,3 +27,8 @@ Een gitignore-bestand zegt welke bestanden of mappen git moet negeren.
 Ik heb een bestand op github.com aangepast en daarna op commit changes gedrukt. Hiermee werden mijn wijzigingen opgeslagen en daarna heb ik mijn wijzigingen naar de main branch gezet en daarna heb ik mijn eigen wijziging gepulld zodat dit daarna ook op mijn vs code staat.
 
 Eerst pull je altijd, hiermee zorg je ervoor dat jou versie volledig mee is met de versies/wijzigingen die andere mensen hebben gedaan. Met commit sla je je wijzigingen op. En daarna pull je zodat de andere mensen ook jouw wijzigingen kunnen zien. Zo werk iedereen synchroon mee met elkaar.
+
+## 5. Terugdraaien
+
+Github bewaart de geschiedenis zodat anderen kunnen zien wat er is gebeurd en wanneer. Dit is handig en goed voor een proper overzicht.
+
