@@ -10,14 +10,6 @@ Push: Je zet jouw opgeslagen veranderingen vanuit je computer naar GitHub. Hierd
 
 Pull: Hiermee haal je de nieuwste wijzigingen van GitHub naar je lokale repository. Zo blijf je synchroniseren met het werk van andere ontwikkelaars. Dit moet je herhalend doen.
 
-## 2. Een goed commitbericht
-
-een goed commitbericht: contactpagina toegevoegd
-een slecht commitbericht: geüpdatet
-
-Waarom is dat een slecht commitbericht?
-Het legt niet uit wat er gebeurd is, alleen dat er een aanpassing/update geweest is. Je moet specifieker zijn.
-
 ## 3. gitignore
 
 Een gitignore-bestand zegt welke bestanden of mappen git moet negeren.
