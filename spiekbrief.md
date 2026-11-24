@@ -32,3 +32,10 @@ Eerst pull je altijd, hiermee zorg je ervoor dat jou versie volledig mee is met 
 
 Github bewaart de geschiedenis zodat anderen kunnen zien wat er is gebeurd en wanneer. Dit is handig en goed voor een proper overzicht.
 
+## 6. Branches en pull requests
+
+Een branch in github is een aparte versie van je project waarin je kunt werken zonder de hoofdversie te beïnvloeden.
+
+Je kunt elke branch als standaardbranch instellen in de repository-instellingen. Maar bij de meeste projecten beslist iedereen om de main branch als hoofdversie te gebruiken, dit is ook standaard zo.
+
+een pull request is een voorstel om wijzigingen van één branch naar meestal de main branch te mergen.
